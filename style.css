@@ -1,5 +1,53 @@
 
-h1 {
+h2 {
     text-align: center;
+    color:aliceblue;
+    font: 100;
+    font-family: cursive;
+    margin: 1%;
+    width: auto;
 }
 
+
+
+body {
+
+    background-color: rgb(8, 8, 8);    
+}
+
+ .tabla {
+        width: 100%;
+        padding-left: 30%;
+        padding-right: 35%;
+        display: flexbox; justify-content: center;
+         
+        
+ }
+
+ td {
+    border: 2px solid rgb(245, 245, 245);
+    color: rgb(255, 250, 250);
+    font-size: 25px;
+    
+    
+ }
+
+ img{
+    margin-left: 45%;
+   width: 200px;
+ }
+
+.tabla1 {
+    width: 100%;
+        padding-left: 30%;
+        padding-right: 35%;
+        display: flexbox; justify-content: center;
+        
+ }
+
+ a{
+    font-size: 40px;
+    color: aliceblue;
+    border: 2px solid white;
+ }
+ 
