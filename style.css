@@ -35,6 +35,22 @@ body {
  img{
     margin-left: 45%;
    width: 200px;
+   align-items: center;
+ }
+
+ .tabla6{
+   width: 100%;
+   padding-left: 30%;
+   padding-right: 35%;
+   display: flexbox; justify-content: center;
+   
+ }
+ .tabla5{
+   width: 100%;
+   padding-left: 30%;
+   padding-right: 35%;
+   display: flexbox; justify-content: center;
+   
  }
 
 .tabla1 {
@@ -51,3 +67,76 @@ body {
     border: 2px solid white;
  }
  
+ p {
+    color: aliceblue;
+    font-size: 40px;
+ }
+ 
+ .Bs{
+   text-align: center;
+ }
+
+.tabla7{
+   width: 100%;
+   padding-left: 30%;
+   padding-right: 35%;
+   display: flexbox; justify-content: center;
+   
+   
+}
+
+.tabla8{
+   width: 100%;
+   padding-left: 30%;
+   padding-right: 35%;
+   display: flexbox; justify-content: center;
+   }
+
+.tabla9{
+   width: 100%;
+   padding-left: 30%;
+   padding-right: 35%;
+   display: flexbox; justify-content: center;
+   
+}
+.tabla10{
+   width: 100%;
+   padding-left: 30%;
+   padding-right: 35%;
+   display: flexbox; justify-content: center;
+   
+}
+
+.tabla11{
+   width: 100%;
+   padding-left: 30%;
+   padding-right: 35%;
+   display: flexbox; justify-content: center;
+   
+}
+
+.tabla12{
+   width: 100%;
+   padding-left: 30%;
+   padding-right: 35%;
+   display: flexbox; justify-content: center;
+   
+}
+
+.tabla13{
+   width: 100%;
+   padding-left: 30%;
+   padding-right: 35%;
+   display: flexbox; justify-content: center;
+   
+}
+
+.tabla14{
+   width: 100%;
+   padding-left: 30%;
+   padding-right: 35%;
+   display: flexbox; justify-content: center;
+}
+
+
+
