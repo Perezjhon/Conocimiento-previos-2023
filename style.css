@@ -1,142 +1,142 @@
-
 h2 {
-    text-align: center;
-    color:aliceblue;
-    font: 100;
-    font-family: cursive;
-    margin: 1%;
-    width: auto;
+   text-align: center;
+   color:aliceblue;
+   font: 100;
+   font-family: cursive;
+   margin: 1%;
+   width: auto;
 }
 
 
 
 body {
 
-    background-color: rgb(8, 8, 8);    
+   background-color: rgb(8, 8, 8);    
 }
 
- .tabla {
-        width: 100%;
-        padding-left: 30%;
-        padding-right: 35%;
-        display: flexbox; justify-content: center;
-         
+.tabla {
+       width: 100%;
+       padding-left: 30%;
+       padding-right: 35%;
+       display: flexbox; justify-content: center;
         
- }
+       
+}
 
- td {
-    border: 2px solid rgb(245, 245, 245);
-    color: rgb(255, 250, 250);
-    font-size: 25px;
-    
-    
- }
-
- img{
-    margin-left: 45%;
-   width: 200px;
-   align-items: center;
- }
-
- .tabla6{
-   width: 100%;
-   padding-left: 30%;
-   padding-right: 35%;
-   display: flexbox; justify-content: center;
+td {
+   border: 2px solid rgb(245, 245, 245);
+   color: rgb(255, 250, 250);
+   font-size: 25px;
    
- }
- .tabla5{
-   width: 100%;
-   padding-left: 30%;
-   padding-right: 35%;
-   display: flexbox; justify-content: center;
    
- }
+}
+
+img{
+   margin-left: 45%;
+  width: 200px;
+  align-items: center;
+}
+
+.tabla6{
+  width: 100%;
+  padding-left: 30%;
+  padding-right: 35%;
+  display: flexbox; justify-content: center;
+  
+}
+.tabla5{
+  width: 100%;
+  padding-left: 30%;
+  padding-right: 35%;
+  display: flexbox; justify-content: center;
+  
+}
 
 .tabla1 {
-    width: 100%;
-        padding-left: 30%;
-        padding-right: 35%;
-        display: flexbox; justify-content: center;
-        
- }
+   width: 100%;
+       padding-left: 30%;
+       padding-right: 35%;
+       display: flexbox; justify-content: center;
+       
+}
 
- a{
-    font-size: 40px;
-    color: aliceblue;
-    border: 2px solid white;
- }
- 
- p {
-    color: aliceblue;
-    font-size: 40px;
- }
- 
- .Bs{
-   text-align: center;
- }
+a{
+   font-size: 40px;
+   color: aliceblue;
+   border: 2px solid white;
+}
+
+p {
+   color: aliceblue;
+   font-size: 40px;
+}
+
+.Bs{
+  text-align: center;
+}
 
 .tabla7{
-   width: 100%;
-   padding-left: 30%;
-   padding-right: 35%;
-   display: flexbox; justify-content: center;
-   
-   
+  width: 100%;
+  padding-left: 30%;
+  padding-right: 35%;
+  display: flexbox; justify-content: center;
+  
+  
 }
 
 .tabla8{
-   width: 100%;
-   padding-left: 30%;
-   padding-right: 35%;
-   display: flexbox; justify-content: center;
-   }
+  width: 100%;
+  padding-left: 30%;
+  padding-right: 35%;
+  display: flexbox; justify-content: center;
+  }
 
 .tabla9{
-   width: 100%;
-   padding-left: 30%;
-   padding-right: 35%;
-   display: flexbox; justify-content: center;
-   
+  width: 100%;
+  padding-left: 30%;
+  padding-right: 35%;
+  display: flexbox; justify-content: center;
+  
 }
 .tabla10{
-   width: 100%;
-   padding-left: 30%;
-   padding-right: 35%;
-   display: flexbox; justify-content: center;
-   
+  width: 100%;
+  padding-left: 30%;
+  padding-right: 35%;
+  display: flexbox; justify-content: center;
+  
 }
 
 .tabla11{
-   width: 100%;
-   padding-left: 30%;
-   padding-right: 35%;
-   display: flexbox; justify-content: center;
-   
+  width: 100%;
+  padding-left: 30%;
+  padding-right: 35%;
+  display: flexbox; justify-content: center;
+  
 }
 
 .tabla12{
-   width: 100%;
-   padding-left: 30%;
-   padding-right: 35%;
-   display: flexbox; justify-content: center;
-   
+  width: 100%;
+  padding-left: 30%;
+  padding-right: 35%;
+  display: flexbox; justify-content: center;
+  
 }
 
 .tabla13{
-   width: 100%;
-   padding-left: 30%;
-   padding-right: 35%;
-   display: flexbox; justify-content: center;
-   
+  width: 100%;
+  padding-left: 30%;
+  padding-right: 35%;
+  display: flexbox; justify-content: center;
+  
 }
 
 .tabla14{
-   width: 100%;
-   padding-left: 30%;
-   padding-right: 35%;
-   display: flexbox; justify-content: center;
+  width: 100%;
+  padding-left: 30%;
+  padding-right: 35%;
+  display: flexbox; justify-content: center;
 }
+
 
 
 
